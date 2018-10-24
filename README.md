@@ -1,4 +1,4 @@
-# new-mac
+# laptop
 A set of links to use when setting up a new macOS device.
 
 First, you need the Xcode CLI tools.
@@ -6,7 +6,7 @@ First, you need the Xcode CLI tools.
 xcode-select --install
 ```
 
-Now can install everything in one go with [cask](cask.md).
+Now install everything in one go with [cask](cask.md).
 
 Or if you wanna go manual, you'll need [The Unarchiver](https://theunarchiver.com/) to unzip everything.
 
