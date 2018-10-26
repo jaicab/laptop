@@ -11,13 +11,21 @@ Now install everything in one go with [cask](cask.md).
 Or if you wanna go manual, you'll need [The Unarchiver](https://theunarchiver.com/) to unzip everything.
 
 ## Work 👨‍💻
-- [Homebrew](https://brew.sh/)
+- [homebrew](https://brew.sh/)
 - [iTerm2](https://www.iterm2.com/)
 - [zsh](https://ohmyz.sh/)
 - [VSCode](https://code.visualstudio.com/Download)
 - [Browsers](http://outdatedbrowser.com/en)
 - [Sketch](https://www.sketchapp.com/)
 - [Zeplin](https://zeplin.io/)
+
+## Sketch plugins 💎
+- [Runner](https://sketchrunner.com/)
+- [Icon font](https://github.com/keremciu/sketch-iconfont)
+- [SVGO compressor](https://github.com/BohemianCoding/svgo-compressor)
+- [Diverse UI](https://github.com/reneepadgham/diverseui-sketch-plugin)
+- [Confetti](http://www.sketchconfetti.com/)
+- [Rename instances](https://github.com/exevil/sketch-rename-instances)
 
 ## Common 💃
 - [Spotify](https://www.spotify.com/uk/download/other/)
