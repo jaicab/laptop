@@ -1,4 +1,4 @@
-# 💻 laptop
+# laptop
 A set of links to use when setting up a new macOS device.
 
 First, you need the Xcode CLI tools.
@@ -10,7 +10,7 @@ Now install everything in one go with [cask](cask.md).
 
 Or if you wanna go manual, you'll need [The Unarchiver](https://theunarchiver.com/) to unzip everything.
 
-## 👨‍💻 Work
+## Work 👨‍💻
 - [Homebrew](https://brew.sh/)
 - [iTerm2](https://www.iterm2.com/)
 - [zsh](https://ohmyz.sh/)
@@ -19,7 +19,7 @@ Or if you wanna go manual, you'll need [The Unarchiver](https://theunarchiver.co
 - [Sketch](https://www.sketchapp.com/)
 - [Zeplin](https://zeplin.io/)
 
-## 💃 Common
+## Common 💃
 - [Spotify](https://www.spotify.com/uk/download/other/)
 - [Slack](https://slack.com/intl/es/downloads/osx)
 - [VLC](https://www.videolan.org/vlc/download-macosx.en-GB.html)
@@ -29,18 +29,18 @@ Or if you wanna go manual, you'll need [The Unarchiver](https://theunarchiver.co
 - [Transmission](https://transmissionbt.com/)
 - [AppCleaner](https://freemacsoft.net/appcleaner/)
 
-## 🛠️ Tools
+## Tools 🛠️
 - [iA Writer](https://ia.net/writer)
 - [Color Picker](https://itunes.apple.com/gb/app/color-picker/id641027709?mt=12)
 - [Color Oracle](https://colororacle.org/)
 - [ImageOptim](https://imageoptim.com/mac)
 - [ImageAlpha](https://pngmini.com/)
 
-## 🎧 Audio
+## Audio 🎧
 - [ToothFairy](https://itunes.apple.com/gb/app/toothfairy/id1191449274?mt=12): Bluetooth headsets
 - [High Sierra Media Key Enabler](http://milgra.com/high-sierra-media-key-enabler.html): Launches Spotify instead of iTunes on play
 
-## ⚙️ Extensions
+## Extensions ⚙️
 - [Vanilla](https://matthewpalmer.net/vanilla/): Clean your Mac bar
 - [Caffeine](http://lightheadsw.com/caffeine/): Never sleep
 - [rocket](https://matthewpalmer.net/rocket/): Emojis everywhere
