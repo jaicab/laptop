@@ -30,6 +30,7 @@ brew cask install \
     imageoptim \
     imagealpha \
     caffeine \
+    vanilla \
     rocket \
     muzzle \
     spectacle
