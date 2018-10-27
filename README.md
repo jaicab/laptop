@@ -33,6 +33,7 @@ Or if you wanna go manual, you'll need [The Unarchiver](https://theunarchiver.co
 - [VLC](https://www.videolan.org/vlc/download-macosx.en-GB.html)
 - [Dropbox (Direct)](https://www.dropbox.com/en_GB/downloading)
 - [Google Drive](https://www.google.com/drive/download/)
+- [MEGA](https://mega.nz/sync)
 - [Transmit (Direct)](https://download.panic.com/transmit/Transmit%204.4.13.zip)
 - [Transmission](https://transmissionbt.com/)
 - [AppCleaner](https://freemacsoft.net/appcleaner/)

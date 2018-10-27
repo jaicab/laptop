@@ -24,6 +24,7 @@ brew cask install \
     vlc \
     dropbox \
     google-drive \
+    megasync \
     transmission \
     appcleaner \
     color-oracle \
