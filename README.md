@@ -44,6 +44,7 @@ Or if you wanna go manual, you'll need [The Unarchiver](https://theunarchiver.co
 - [Color Oracle](https://colororacle.org/)
 - [ImageOptim](https://imageoptim.com/mac)
 - [ImageAlpha](https://pngmini.com/)
+- [RecordIt](http://recordit.co/)
 
 ## Audio 🎧
 - [ToothFairy](https://itunes.apple.com/gb/app/toothfairy/id1191449274?mt=12): Bluetooth headsets

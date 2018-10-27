@@ -30,6 +30,7 @@ brew cask install \
     color-oracle \
     imageoptim \
     imagealpha \
+    recordit \
     caffeine \
     vanilla \
     rocket \
