@@ -18,6 +18,7 @@ Or if you wanna go manual, you'll need [The Unarchiver](https://theunarchiver.co
 - [Browsers](http://outdatedbrowser.com/en)
 - [Sketch](https://www.sketchapp.com/)
 - [Zeplin](https://zeplin.io/)
+- [Transmit (Direct)](https://download.panic.com/transmit/Transmit%204.4.13.zip)
 
 ## Sketch plugins 💎
 - [Runner](https://sketchrunner.com/)
@@ -34,7 +35,6 @@ Or if you wanna go manual, you'll need [The Unarchiver](https://theunarchiver.co
 - [Dropbox (Direct)](https://www.dropbox.com/en_GB/downloading)
 - [Google Drive](https://www.google.com/drive/download/)
 - [MEGA](https://mega.nz/sync)
-- [Transmit (Direct)](https://download.panic.com/transmit/Transmit%204.4.13.zip)
 - [Transmission](https://transmissionbt.com/)
 - [AppCleaner](https://freemacsoft.net/appcleaner/)
 
