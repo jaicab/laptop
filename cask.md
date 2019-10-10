@@ -23,7 +23,7 @@ brew cask install \
     slack \
     vlc \
     dropbox \
-    google-drive \
+    google-photos-backup-and-sync \
     megasync \
     transmission \
     appcleaner \
@@ -31,7 +31,7 @@ brew cask install \
     imageoptim \
     imagealpha \
     recordit \
-    caffeine \
+    amphetamine \
     vanilla \
     rocket \
     muzzle \
@@ -39,9 +39,8 @@ brew cask install \
 ```
 
 Finally, manually install the apps that aren't on cask:
+
 - [iA Writer](https://ia.net/writer)
 - [Color Picker](https://itunes.apple.com/gb/app/color-picker/id641027709?mt=12)
 - [ToothFairy](https://itunes.apple.com/gb/app/toothfairy/id1191449274?mt=12)
 - [Next Meeting](https://itunes.apple.com/us/app/next-meeting/id1017470484)
-
-
