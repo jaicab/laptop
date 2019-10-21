@@ -1,6 +1,7 @@
 # laptop
 
-A set of links to use when setting up a new macOS device.
+A set of links to use when setting up a new macOS device in 3 easy steps.
+You can also see what tools I use. I tend to keep this very up to date.
 
 1. Xcode CLI tools.
 
@@ -9,8 +10,8 @@ xcode-select --install
 ```
 
 2. Install everything
-   2.1. In one go with [cask](cask.md).
-   2.2. Manually -links below- you'll need [The Unarchiver](https://theunarchiver.com/) to unzip.
+   1. All in one go with the [cask command](cask.md).
+   2. Manually -links below- use [The Unarchiver](https://theunarchiver.com/) to unzip.
 
 3. Restore your preferences with [mackup](https://github.com/lra/mackup).
 
