@@ -1,6 +1,6 @@
 # laptop
 
-A set of links to use when setting up a new macOS device in 4 easy steps.
+A set of links to use when setting up a new macOS device in 4 easy steps.  
 You can also see what tools I use. I tend to keep this very up to date.
 
 1. Install Xcode CLI tools with `xcode-select --install`.
