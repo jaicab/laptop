@@ -36,26 +36,26 @@ Manage your preferences backup with [mackup](https://github.com/lra/mackup).
 
 ## Common 💃
 
-- [LastPass](https://lastpass.com/download/): Password manager
+- [LastPass](https://lastpass.com/download/)
 - [Spotify](https://www.spotify.com/uk/download/other/)
 - [Slack](https://slack.com/intl/es/downloads/osx)
 - [VLC](https://www.videolan.org/vlc/download-macosx.en-GB.html)
 - [Dropbox (Direct)](https://www.dropbox.com/en_GB/downloading)
 - [Google Drive](https://www.google.com/drive/download/)
 - [MEGA](https://mega.nz/sync)
-- [Transmission](https://transmissionbt.com/)
-- [AppCleaner](https://freemacsoft.net/appcleaner/)
-- [coconutBattery](https://www.coconut-flavour.com/coconutbattery/)
+- [Transmission](https://transmissionbt.com/): Torrent download
+- [AppCleaner](https://freemacsoft.net/appcleaner/): Clean uninstall
+- [coconutBattery](https://www.coconut-flavour.com/coconutbattery/): Mac and iOS battery report
 
 ## Tools 🛠️
 
-- [iA Writer](https://ia.net/writer)
-- [Color Picker](https://itunes.apple.com/gb/app/color-picker/id641027709?mt=12)
-- [Color Oracle](https://colororacle.org/)
-- [ImageOptim](https://imageoptim.com/mac)
-- [ImageAlpha](https://pngmini.com/)
-- [RecordIt](http://recordit.co/)
-- [SkyFonts](https://www.monotype.com/products/skyfonts/): Sync Google Fonts locally
+- [iA Writer](https://ia.net/writer): Nice and clean markdown editor
+- [Color Picker](https://itunes.apple.com/gb/app/color-picker/id641027709?mt=12): Clean and nice color picker
+- [Color Oracle](https://colororacle.org/): Color-blindness simulator
+- [ImageOptim](https://imageoptim.com/mac): Compress images
+- [ImageAlpha](https://pngmini.com/): Reduce number of colours in PNGs
+- [RecordIt](http://recordit.co/): Record GIFs for demos
+- [SkyFonts](https://www.monotype.com/products/skyfonts/): Sync Google Fonts for local use
 
 ## Audio 🎧
 
@@ -70,4 +70,4 @@ Manage your preferences backup with [mackup](https://github.com/lra/mackup).
 - [Next Meeting](https://itunes.apple.com/us/app/next-meeting/id1017470484): Next Google Calendar event always present
 - [muzzle](https://muzzleapp.com/): Silence embarrassing notifications
 - [Magnet](https://apps.apple.com/app/id441258766): Window resizing (free alternative [Spectacle](https://www.spectacleapp.com/))
-- [Menu World Time](https://apps.apple.com/gb/app/menu-world-time/id1446377255?mt=12): Multiple location clocks and advanced clock settings to work across timezones.
+- [Menu World Time](https://apps.apple.com/gb/app/menu-world-time/id1446377255?mt=12): Multiple location clocks and advanced clock settings to work across timezones
