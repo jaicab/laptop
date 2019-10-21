@@ -2,17 +2,17 @@
 
 A set of links to use when setting up a new macOS device.
 
-First, you need the Xcode CLI tools.
+1. Xcode CLI tools.
 
 ```
 xcode-select --install
 ```
 
-Now install everything in one go with [cask](cask.md).
+2. Install everything
+   2.1. In one go with [cask](cask.md).
+   2.2. Manually -links below- you'll need [The Unarchiver](https://theunarchiver.com/) to unzip.
 
-Or if you wanna go manual, you'll need [The Unarchiver](https://theunarchiver.com/) to unzip everything.
-
-Manage your preferences backup with [mackup](https://github.com/lra/mackup).
+3. Restore your preferences with [mackup](https://github.com/lra/mackup).
 
 ## Work 👨‍💻
 
@@ -45,7 +45,6 @@ Manage your preferences backup with [mackup](https://github.com/lra/mackup).
 - [MEGA](https://mega.nz/sync)
 - [Transmission](https://transmissionbt.com/): Torrent download
 - [AppCleaner](https://freemacsoft.net/appcleaner/): Clean uninstall
-- [coconutBattery](https://www.coconut-flavour.com/coconutbattery/): Mac and iOS battery report
 
 ## Tools 🛠️
 
@@ -56,6 +55,7 @@ Manage your preferences backup with [mackup](https://github.com/lra/mackup).
 - [ImageAlpha](https://pngmini.com/): Reduce number of colours in PNGs
 - [RecordIt](http://recordit.co/): Record GIFs for demos
 - [SkyFonts](https://www.monotype.com/products/skyfonts/): Sync Google Fonts for local use
+- [coconutBattery](https://www.coconut-flavour.com/coconutbattery/): Mac and iOS battery report
 
 ## Audio 🎧
 
