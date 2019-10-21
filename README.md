@@ -12,6 +12,8 @@ Now install everything in one go with [cask](cask.md).
 
 Or if you wanna go manual, you'll need [The Unarchiver](https://theunarchiver.com/) to unzip everything.
 
+Manage your preferences backup with [mackup](https://github.com/lra/mackup).
+
 ## Work 👨‍💻
 
 - [homebrew](https://brew.sh/)
@@ -34,7 +36,7 @@ Or if you wanna go manual, you'll need [The Unarchiver](https://theunarchiver.co
 
 ## Common 💃
 
-- [LastPass](https://lastpass.com/download/)
+- [LastPass](https://lastpass.com/download/): Password manager
 - [Spotify](https://www.spotify.com/uk/download/other/)
 - [Slack](https://slack.com/intl/es/downloads/osx)
 - [VLC](https://www.videolan.org/vlc/download-macosx.en-GB.html)
@@ -52,10 +54,11 @@ Or if you wanna go manual, you'll need [The Unarchiver](https://theunarchiver.co
 - [ImageOptim](https://imageoptim.com/mac)
 - [ImageAlpha](https://pngmini.com/)
 - [RecordIt](http://recordit.co/)
+- [SkyFonts](https://www.monotype.com/products/skyfonts/): Sync Google Fonts locally
 
 ## Audio 🎧
 
-- [ToothFairy](https://itunes.apple.com/gb/app/toothfairy/id1191449274?mt=12): Bluetooth headsets
+- [ToothFairy](https://itunes.apple.com/gb/app/toothfairy/id1191449274?mt=12): Fast-pair bluetooth
 - [High Sierra Media Key Enabler](http://milgra.com/high-sierra-media-key-enabler.html): Launches Spotify instead of iTunes on play
 
 ## Extensions ⚙️
@@ -65,5 +68,5 @@ Or if you wanna go manual, you'll need [The Unarchiver](https://theunarchiver.co
 - [rocket](https://matthewpalmer.net/rocket/): Emojis everywhere
 - [Next Meeting](https://itunes.apple.com/us/app/next-meeting/id1017470484): Next Google Calendar event always present
 - [muzzle](https://muzzleapp.com/): Silence embarrassing notifications
-- [Spectacle](https://www.spectacleapp.com/): Window resizing
+- [Magnet](https://apps.apple.com/app/id441258766): Window resizing (free alternative [Spectacle](https://www.spectacleapp.com/))
 - [Menu World Time](https://apps.apple.com/gb/app/menu-world-time/id1446377255?mt=12): Multiple location clocks and advanced clock settings to work across timezones.

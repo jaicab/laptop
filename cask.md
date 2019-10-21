@@ -19,6 +19,7 @@ brew cask install \
     opera \
     sketch \
     zeplin \
+    lastpass \
     spotify \
     slack \
     vlc \
@@ -31,11 +32,11 @@ brew cask install \
     imageoptim \
     imagealpha \
     recordit \
-    amphetamine \
+    skyfonts \
     vanilla \
+    amphetamine \
     rocket \
-    muzzle \
-    spectacle
+    muzzle
 ```
 
 Finally, manually install the apps that aren't on cask:
@@ -44,3 +45,15 @@ Finally, manually install the apps that aren't on cask:
 - [Color Picker](https://itunes.apple.com/gb/app/color-picker/id641027709?mt=12)
 - [ToothFairy](https://itunes.apple.com/gb/app/toothfairy/id1191449274?mt=12)
 - [Next Meeting](https://itunes.apple.com/us/app/next-meeting/id1017470484)
+- [Magnet](https://apps.apple.com/app/id441258766)
+- [Menu World Time](https://apps.apple.com/gb/app/menu-world-time/id1446377255?mt=12)
+
+Once Dropbox has synced, bring all your preferences with [mackup](https://github.com/lra/mackup).
+
+```
+# Install Mackup
+brew install mackup
+
+# Launch it and restore your files
+mackup restore
+```
