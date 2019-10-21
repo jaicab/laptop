@@ -45,6 +45,7 @@ Manage your preferences backup with [mackup](https://github.com/lra/mackup).
 - [MEGA](https://mega.nz/sync)
 - [Transmission](https://transmissionbt.com/)
 - [AppCleaner](https://freemacsoft.net/appcleaner/)
+- [coconutBattery](https://www.coconut-flavour.com/coconutbattery/)
 
 ## Tools 🛠️
 

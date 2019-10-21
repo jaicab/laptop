@@ -28,6 +28,7 @@ brew cask install \
     megasync \
     transmission \
     appcleaner \
+    coconutbattery \
     color-oracle \
     imageoptim \
     imagealpha \
