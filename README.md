@@ -1,11 +1,12 @@
 # laptop
 
-A set of links to use when setting up a new macOS device in 4 easy steps.  
+A set of links to use when setting up a new macOS device in 4 easy steps.
 You can also see what tools I use. I tend to keep this very up to date.
 
 1. Install Xcode CLI tools with `xcode-select --install`.
 
 2. Install everything else.
+
    1. All in one go with the [cask command](cask.md).
    2. Manually -links below- use [The Unarchiver](https://theunarchiver.com/) to unzip.
 
@@ -46,7 +47,7 @@ You can also see what tools I use. I tend to keep this very up to date.
 ## Tools 🛠️
 
 - [iA Writer](https://ia.net/writer): Nice and clean markdown editor
-- [Color Picker](https://itunes.apple.com/gb/app/color-picker/id641027709?mt=12): Clean and nice color picker
+- [Color Slurp](https://apps.apple.com/gb/app/colorslurp/id1287239339?mt=12): Nice and clean color picker
 - [Color Oracle](https://colororacle.org/): Color-blindness simulator
 - [ImageOptim](https://imageoptim.com/mac): Compress images
 - [ImageAlpha](https://pngmini.com/): Reduce number of colours in PNGs
