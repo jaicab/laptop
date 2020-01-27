@@ -14,14 +14,20 @@ You can also see what tools I use. I tend to keep this very up to date.
 
 ## Work 👨‍💻
 
-- [homebrew](https://brew.sh/)
-- [iTerm2](https://www.iterm2.com/)
-- [zsh](https://ohmyz.sh/)
+- [homebrew](https://brew.sh)
+- [iTerm2](https://www.iterm2.com)
+- [zsh](https://ohmyz.sh)
 - [VSCode](https://code.visualstudio.com/Download)
 - [Browsers](http://outdatedbrowser.com/en)
-- [Sketch](https://www.sketchapp.com/)
-- [Zeplin](https://zeplin.io/)
+- [Sketch](https://www.sketchapp.com)
+- [Zeplin](https://zeplin.io)
 - [Transmit (Direct)](https://download.panic.com/transmit/Transmit%204.4.13.zip)
+
+## Productivity 📈
+- [Notion](https://www.notion.so): Big picture management
+- [Todoist](https://todoist.com): Small task management
+- [Drafts](https://getdrafts.com): Never forget an idea again
+- [iA Writer](https://ia.net/writer): Long-form write up
 
 ## Sketch plugins 💎
 
@@ -46,7 +52,6 @@ You can also see what tools I use. I tend to keep this very up to date.
 
 ## Tools 🛠️
 
-- [iA Writer](https://ia.net/writer): Nice and clean markdown editor
 - [Color Slurp](https://apps.apple.com/gb/app/colorslurp/id1287239339?mt=12): Nice and clean color picker
 - [Color Oracle](https://colororacle.org/): Color-blindness simulator
 - [ImageOptim](https://imageoptim.com/mac): Compress images
