@@ -14,20 +14,26 @@ brew cask install \
     iterm2 \
     zsh \
     vscode \
+    lastpass \
+    WebPQuickLook \
+    background-music \
+    spotify \
+    whatsapp \
+    slack \
     google-chrome \
     firefox \
     opera \
+    figma \
     sketch \
     zeplin \
-    lastpass \
-    spotify \
-    slack \
     vlc \
+    flux \
     dropbox \
     google-photos-backup-and-sync \
     megasync \
     transmission \
     appcleaner \
+    calibre \
     coconutbattery \
     color-oracle \
     imageoptim \

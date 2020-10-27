@@ -14,16 +14,19 @@ You can also see what tools I use. I tend to keep this very up to date.
 
 ## Work 👨‍💻
 
+- [Figma](https://www.figma.com)
+- [Sketch](https://www.sketchapp.com)
+- [Zeplin](https://zeplin.io)
 - [homebrew](https://brew.sh)
 - [iTerm2](https://www.iterm2.com)
 - [zsh](https://ohmyz.sh)
 - [VSCode](https://code.visualstudio.com/Download)
 - [Browsers](http://outdatedbrowser.com/en)
-- [Sketch](https://www.sketchapp.com)
-- [Zeplin](https://zeplin.io)
 - [Transmit (Direct)](https://download.panic.com/transmit/Transmit%204.4.13.zip)
+- [WebP Quick Look](https://github.com/emin/WebPQuickLook)
 
 ## Productivity 📈
+
 - [Notion](https://www.notion.so): Big picture management
 - [Todoist](https://todoist.com): Small task management
 - [Drafts](https://getdrafts.com): Never forget an idea again
@@ -32,23 +35,26 @@ You can also see what tools I use. I tend to keep this very up to date.
 ## Sketch plugins 💎
 
 - [Runner](https://sketchrunner.com/)
-- [Icon font](https://github.com/keremciu/sketch-iconfont)
-- [SVGO compressor](https://github.com/BohemianCoding/svgo-compressor)
+- [Icon Font](https://github.com/keremciu/sketch-iconfont)
+- [SVGO Compressor](https://github.com/BohemianCoding/svgo-compressor)
 - [Diverse UI](https://github.com/reneepadgham/diverseui-sketch-plugin)
 - [Confetti](http://www.sketchconfetti.com/)
-- [Rename instances](https://github.com/exevil/sketch-rename-instances)
+- [Rename Instances](https://github.com/exevil/sketch-rename-instances)
 
 ## Common 💃
 
 - [LastPass](https://lastpass.com/download/)
 - [Spotify](https://www.spotify.com/uk/download/other/)
 - [Slack](https://slack.com/intl/es/downloads/osx)
+- [WhatsApp](https://www.whatsapp.com/download/)
 - [VLC](https://www.videolan.org/vlc/download-macosx.en-GB.html)
 - [Dropbox (Direct)](https://www.dropbox.com/en_GB/downloading)
 - [Google Drive](https://www.google.com/drive/download/)
 - [MEGA](https://mega.nz/sync)
+- [Calibre](https://calibre-ebook.com/): Manage ebooks
 - [Transmission](https://transmissionbt.com/): Torrent download
 - [AppCleaner](https://freemacsoft.net/appcleaner/): Clean uninstall
+- [The Unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353): Does what is says in the tin
 
 ## Tools 🛠️
 
@@ -62,6 +68,7 @@ You can also see what tools I use. I tend to keep this very up to date.
 
 ## Audio 🎧
 
+- [Background Music](https://github.com/kyleneideck/BackgroundMusic): Play/pause your music when other audio source starts
 - [ToothFairy](https://itunes.apple.com/gb/app/toothfairy/id1191449274?mt=12): Fast-pair bluetooth
 - [High Sierra Media Key Enabler](http://milgra.com/high-sierra-media-key-enabler.html): Launches Spotify instead of iTunes on play
 
@@ -70,6 +77,8 @@ You can also see what tools I use. I tend to keep this very up to date.
 - [Vanilla](https://matthewpalmer.net/vanilla/): Clean your Mac bar
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704): Keeps your Mac awake. Lots of granular control.
 - [rocket](https://matthewpalmer.net/rocket/): Emojis everywhere
+- [f.lux](https://justgetflux.com): Lower blue light on schedule
+- [Shazam for Mac](https://apps.apple.com/us/app/shazam/id897118787): "OMG what is that song"
 - [Next Meeting](https://itunes.apple.com/us/app/next-meeting/id1017470484): Next Google Calendar event always present
 - [muzzle](https://muzzleapp.com/): Silence embarrassing notifications
 - [Magnet](https://apps.apple.com/app/id441258766): Window resizing (free alternative [Spectacle](https://www.spectacleapp.com/))
