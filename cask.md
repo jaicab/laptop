@@ -3,17 +3,17 @@
 Download most things in one go with cask. You will need [Homebrew](https://brew.sh/) and then tapping cask.
 
 ```
-brew tap caskroom/cask
+brew tap homebrew/cask
 ```
 
 Once it's available, do:
 
 ```
-brew cask install \
+brew install --cask \
     the-unarchiver \
     iterm2 \
     zsh \
-    vscode \
+    visual-studio-code \
     lastpass \
     WebPQuickLook \
     background-music \
@@ -41,7 +41,6 @@ brew cask install \
     recordit \
     skyfonts \
     vanilla \
-    amphetamine \
     rocket \
     muzzle
 ```
