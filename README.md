@@ -19,7 +19,6 @@ You can also see what tools I use. I tend to keep this very up to date.
 - [Figma](https://www.figma.com)
 - [Sketch](https://www.sketchapp.com)
 - [Zeplin](https://zeplin.io)
-- [homebrew](https://brew.sh)
 - [iTerm2](https://www.iterm2.com)
 - [zsh](https://ohmyz.sh)
 - [VSCode](https://code.visualstudio.com/Download)
@@ -45,7 +44,7 @@ You can also see what tools I use. I tend to keep this very up to date.
 
 ## Common 💃
 
-- [LastPass](https://lastpass.com/download/)
+- [BitWarden]([https://lastpass.com/download/](https://bitwarden.com/download/))
 - [Spotify](https://www.spotify.com/uk/download/other/)
 - [Slack](https://slack.com/intl/es/downloads/osx)
 - [WhatsApp](https://www.whatsapp.com/download/)
