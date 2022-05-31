@@ -3,11 +3,13 @@
 Download most things in one go with cask.
 
 ```
-brew install --cask \
+brew install zsh && install --cask \
     the-unarchiver \
     iterm2 \
     visual-studio-code \
     bitwarden \
+    notion \
+    todoist \
     WebPQuickLook \
     background-music \
     spotify \
