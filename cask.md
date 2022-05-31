@@ -1,20 +1,13 @@
 # cask
 
-Download most things in one go with cask. You will need [Homebrew](https://brew.sh/) and then tapping cask.
-
-```
-brew tap homebrew/cask
-```
-
-Once it's available, do:
+Download most things in one go with cask.
 
 ```
 brew install --cask \
     the-unarchiver \
     iterm2 \
-    zsh \
     visual-studio-code \
-    lastpass \
+    bitwarden \
     WebPQuickLook \
     background-music \
     spotify \
@@ -27,9 +20,8 @@ brew install --cask \
     sketch \
     zeplin \
     vlc \
-    flux \
     dropbox \
-    google-photos-backup-and-sync \
+    google-drive \
     megasync \
     transmission \
     appcleaner \
